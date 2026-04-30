@@ -8,8 +8,7 @@ The build approach is adapted from:
 - https://github.com/kaw393939/bseai_degree
 
 ## Live Site
-Add your GitHub Pages URL here after deployment:
-- https://YOUR-USERNAME.github.io/is117SpecDriven/
+- https://vangela6780.github.io/is117SpecDriven/
 
 ## Structure
 - index.html: 5-section scrollytelling homepage (hero, context, solution, features, CTA)
@@ -43,6 +42,6 @@ Add your GitHub Pages URL here after deployment:
 - [x] Content page works
 - [x] Navigation works
 - [x] Spec and sprint artifacts included
-- [ ] GitHub repo is clean
-- [ ] GitHub Pages deployed
+- [x] GitHub repo is clean
+- [x] GitHub Pages deployed
 - [x] README includes description, live-site placeholder, and reflection
